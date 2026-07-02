@@ -1090,6 +1090,25 @@ p {
   color: rgba(250, 246, 236, 0.4);
 }
 
+.footer-bottom p {
+  margin: 0 auto;
+  max-width: none;
+}
+
+.highlight-fun {
+  display: block;
+  font-size: 1.6rem;
+  color: var(--color-gold);
+  font-weight: 700;
+  margin-top: 0.75rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-shadow: 0 0 10px rgba(201, 162, 39, 0.3);
+}
+
 /* ============================================
    RESPONSIVE — 480px+
    ============================================ */
